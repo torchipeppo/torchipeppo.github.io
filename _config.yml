@@ -1,3 +1,6 @@
+title: Torchipeppo's GitHub Page
+description: PhD Candidate in Artificial Intelligence, M.Sc. in AI and Robotics
+theme: jekyll-theme-hacker
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
